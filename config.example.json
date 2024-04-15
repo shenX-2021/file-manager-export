@@ -1,0 +1,5 @@
+{
+  "dbPath": "./file.db",
+  "outputDir": "./output",
+  "cpuCount": 2
+}
